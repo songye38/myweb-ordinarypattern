@@ -1,0 +1,35 @@
+
+/*filter와 filter-items 스타일링*/
+.filters {
+    height:80px;
+    width:100%;
+    position: fixed; 
+    top:0px;
+    background-color:white;
+    display: block;
+    clear: both;
+}
+.filters h2 {
+    display:inline-block;
+    font-size:1.8em;
+     vertical-align: middle;
+    margin-left:1.5em;
+}
+.is-checked {
+    background-color: #008CBA;
+    border-radius: 8px;
+    box-shadow: 0;
+}
+.ui-group {
+    display: inline-block;
+}
+.ui-group h3 {
+    display:inline-block;
+    margin-left: 1.5em;
+}
+.button-group {
+    display:inline-block;
+    border:none;
+    text-decoration: none;
+    font-size: 0.5em;
+}

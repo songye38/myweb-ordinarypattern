@@ -1,0 +1,14 @@
+
+/* showcase의 전체 레이아웃 스타일링*/
+* {
+  box-sizing: border-box;
+}
+.grid-sizer,
+.grid-item {
+  width: 33.3333%;
+  float:left;
+}
+.grid-item img{
+  display:block;
+  max-width:100%;
+}

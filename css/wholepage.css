@@ -1,0 +1,9 @@
+/* 전체 페이지의 기본적인 스타일링 */
+* {
+    font-family: 'Julius Sans One', sans-serif;
+}
+a {
+    text-decoration: none;
+    cursor: auto;
+    color:black;
+}

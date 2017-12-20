@@ -1,0 +1,20 @@
+/* showcase 스타일링*/
+header {
+    height:70px;
+    margin-top:2em;
+    margin-left:2em;
+}
+
+header h2{
+    display:inline;
+    font-size:2.3em;
+    vertical-align: middle;
+}
+navigation {
+    margin-left:3em;
+}
+navigation a {
+    display:inline-block;
+    font-size: 1em;
+    padding:0.5em;
+}
